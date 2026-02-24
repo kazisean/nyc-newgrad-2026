@@ -10,12 +10,12 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 2d |
-| ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 2d |
-| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 3d |
-| [qode.world](https://simplify.jobs/c/Qode-World?utm_source=GHList&utm_medium=company) | Junior Software Developer | NYC | [Simplify](https://simplify.jobs/p/4cf7bd70-7bbd-457b-b379-d0e23ce0cad7?utm_source=GHList) | 4d |
-| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 – New Grad - Marketplace Operations | NYC | [Simplify](https://simplify.jobs/p/e8a92a4d-8eca-4c45-9c6b-f4ff5b6b7983?utm_source=GHList) | 16d |
-| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 - Infrastructure | NYC | [Simplify](https://simplify.jobs/p/b0d52633-ed50-4f5c-8b63-7ff1be959d36?utm_source=GHList) | 18d |
+| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 3d |
+| ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 3d |
+| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 4d |
+| [qode.world](https://simplify.jobs/c/Qode-World?utm_source=GHList&utm_medium=company) | Junior Software Developer | NYC | [Simplify](https://simplify.jobs/p/4cf7bd70-7bbd-457b-b379-d0e23ce0cad7?utm_source=GHList) | 5d |
+| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 – New Grad - Marketplace Operations | NYC | [Simplify](https://simplify.jobs/p/e8a92a4d-8eca-4c45-9c6b-f4ff5b6b7983?utm_source=GHList) | 17d |
+| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 - Infrastructure | NYC | [Simplify](https://simplify.jobs/p/b0d52633-ed50-4f5c-8b63-7ff1be959d36?utm_source=GHList) | 19d |
 | [Loop](https://simplify.jobs/c/Loop?utm_source=GHList&utm_medium=company) | 2026 New Grad - Software Engineer - Full-Stack | SF, Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/aff0bb8a-52b1-43c4-9cc3-d415c0439d24?utm_source=GHList) | 1mo |
 | BAE Systems | Entry Level Software Engineer 🇺🇸 | Greenlawn, NY | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer?utm_source=Simplify&ref=Simplify) | 2mo |
 | [Cisco](https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company) | Software Engineer Data/AI/Intelligent Systems I (Full Time) | 13 locationsAustin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC | [Apply](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States?utm_source=Simplify&ref=Simplify) | 3mo |

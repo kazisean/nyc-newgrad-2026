@@ -10,18 +10,18 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Vanta](https://simplify.jobs/c/Vanta?utm_source=GHList&utm_medium=company) | Software Engineer – Entry Level | SF, NYC | [Simplify](https://simplify.jobs/p/df235b55-df41-4226-9060-cb7af5604e4c?utm_source=GHList) | 1d |
-| Sigma | Software Engineer (New Grad Program) 🛂 | San Francisco, CA, New York City, NY | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657082003?utm_source=Simplify&ref=Simplify) | 2d |
-| [Angle Health](https://simplify.jobs/c/Angle-Health?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/ed72898d-d127-4603-a86d-3a4cfff7e5a9?utm_source=GHList) | 8d |
-| ↳ | Software Engineer 1 – New Grad | NYC | [Simplify](https://simplify.jobs/p/3c313d46-8378-46f3-97e9-038607059bd6?utm_source=GHList) | 9d |
-| [LPL Financial Holdings](https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company) | New Grad - Technology - Software Development | 4 locationsFort Mill, SC, San Diego, CA, NYC, Austin, TX | [Simplify](https://simplify.jobs/p/14baa6e2-9ee9-4612-b385-8bad55d04c67?utm_source=GHList) | 10d |
-| [Spot & Tango](https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/d2822918-7b88-4aa2-86a6-0aaeb8f68c26?utm_source=GHList) | 15d |
-| [PermitFlow](https://simplify.jobs/c/PermitFlow?utm_source=GHList&utm_medium=company) | Fullstack Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/7fa1d4d8-c83e-4dbb-8172-66eff3bb6363?utm_source=GHList) | 17d |
-| [CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company) | Fullstack Web Application Software Engineer – Entry Level | Rome, NY | [Simplify](https://simplify.jobs/p/6b5b3667-dcb8-46bb-a591-3fa62b1199d7?utm_source=GHList) | 17d |
-| [KGS Technology Group](https://simplify.jobs/c/KGS-Technology-Group?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/d6512efe-c12d-49ac-807b-d9c28c86ee17?utm_source=GHList) | 17d |
-| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 21d |
-| ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 21d |
-| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 22d |
+| [Vanta](https://simplify.jobs/c/Vanta?utm_source=GHList&utm_medium=company) | Software Engineer – Entry Level | SF, NYC | [Simplify](https://simplify.jobs/p/df235b55-df41-4226-9060-cb7af5604e4c?utm_source=GHList) | 2d |
+| Sigma | Software Engineer (New Grad Program) 🛂 | San Francisco, CA, New York City, NY | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657082003?utm_source=Simplify&ref=Simplify) | 3d |
+| [Angle Health](https://simplify.jobs/c/Angle-Health?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/ed72898d-d127-4603-a86d-3a4cfff7e5a9?utm_source=GHList) | 9d |
+| ↳ | Software Engineer 1 – New Grad | NYC | [Simplify](https://simplify.jobs/p/3c313d46-8378-46f3-97e9-038607059bd6?utm_source=GHList) | 10d |
+| [LPL Financial Holdings](https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company) | New Grad - Technology - Software Development | 4 locationsFort Mill, SC, San Diego, CA, NYC, Austin, TX | [Simplify](https://simplify.jobs/p/14baa6e2-9ee9-4612-b385-8bad55d04c67?utm_source=GHList) | 11d |
+| [Spot & Tango](https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/d2822918-7b88-4aa2-86a6-0aaeb8f68c26?utm_source=GHList) | 16d |
+| [PermitFlow](https://simplify.jobs/c/PermitFlow?utm_source=GHList&utm_medium=company) | Fullstack Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/7fa1d4d8-c83e-4dbb-8172-66eff3bb6363?utm_source=GHList) | 18d |
+| [CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company) | Fullstack Web Application Software Engineer – Entry Level | Rome, NY | [Simplify](https://simplify.jobs/p/6b5b3667-dcb8-46bb-a591-3fa62b1199d7?utm_source=GHList) | 18d |
+| [KGS Technology Group](https://simplify.jobs/c/KGS-Technology-Group?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/d6512efe-c12d-49ac-807b-d9c28c86ee17?utm_source=GHList) | 18d |
+| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 22d |
+| ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 22d |
+| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 23d |
 | [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 – New Grad - Marketplace Operations | NYC | [Simplify](https://simplify.jobs/p/e8a92a4d-8eca-4c45-9c6b-f4ff5b6b7983?utm_source=GHList) | 1mo |
 | [Loop](https://simplify.jobs/c/Loop?utm_source=GHList&utm_medium=company) | 2026 New Grad - Software Engineer - Full-Stack | SF, Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/aff0bb8a-52b1-43c4-9cc3-d415c0439d24?utm_source=GHList) | 1mo |
 | BAE Systems | Entry Level Software Engineer 🇺🇸 | Greenlawn, NY | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer?utm_source=Simplify&ref=Simplify) | 2mo |
@@ -40,4 +40,4 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 7d |
+| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 8d |

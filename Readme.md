@@ -10,13 +10,13 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/f76e2d9c-00ef-4ba9-9374-f4d4e6e91d03?utm_source=GHList) | 1d |
+| [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/f76e2d9c-00ef-4ba9-9374-f4d4e6e91d03?utm_source=GHList) | 2d |
 | [🔥 Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company) | Graduate Software Engineer 1 | 4 locationsSeattle, WA, SF, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/8a232b83-5ddd-4876-81a0-72ebbe85473d?utm_source=GHList) | 6d |
 | ↳ | Graduate Software Engineer 1 | 4 locationsSeattle, WA, SF, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/99719cf7-1026-4771-b52b-e69f114fc2fd?utm_source=GHList) | 6d |
-| [Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/d54312d4-b724-4f31-8edc-89a45c0f4ef5?utm_source=GHList) | 8d |
-| ↳ | Software Engineer 1 - New Grad | NYC | [Simplify](https://simplify.jobs/p/ab7f6567-e7a7-4d94-ac46-6fde441699e3?utm_source=GHList) | 13d |
-| [Ellipsis Labs](https://simplify.jobs/c/Ellipsis-Labs?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads - Multiple Teams | NYC | [Simplify](https://simplify.jobs/p/9383654e-9231-4cd4-8264-8af3837f9686?utm_source=GHList) | 14d |
-| Nascent | Agentic Ops Intern 🛂 | 8 locationsToronto, ON, CAN, Austin, TX, Chicago, IL, Miami, FL, New York, NY, San Francisco, CA, Vancouver, BC, CAN, Victoria, BC, CAN | [Apply](https://jobs.ashbyhq.com/nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb?utm_source=Simplify&ref=Simplify) | 15d |
+| [Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/d54312d4-b724-4f31-8edc-89a45c0f4ef5?utm_source=GHList) | 9d |
+| ↳ | Software Engineer 1 - New Grad | NYC | [Simplify](https://simplify.jobs/p/ab7f6567-e7a7-4d94-ac46-6fde441699e3?utm_source=GHList) | 14d |
+| [Ellipsis Labs](https://simplify.jobs/c/Ellipsis-Labs?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads - Multiple Teams | NYC | [Simplify](https://simplify.jobs/p/9383654e-9231-4cd4-8264-8af3837f9686?utm_source=GHList) | 15d |
+| Nascent | Agentic Ops Intern 🛂 | 8 locationsToronto, ON, CAN, Austin, TX, Chicago, IL, Miami, FL, New York, NY, San Francisco, CA, Vancouver, BC, CAN, Victoria, BC, CAN | [Apply](https://jobs.ashbyhq.com/nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb?utm_source=Simplify&ref=Simplify) | 16d |
 | [Northslope Technologies](https://simplify.jobs/c/Northslope-Technologies?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer - New Grad | London, UK, NYC | [Simplify](https://simplify.jobs/p/89c2d6f9-9f51-4296-809a-7e8207949cd5?utm_source=GHList) | 1mo |
 | [Angle Health](https://simplify.jobs/c/Angle-Health?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/ed72898d-d127-4603-a86d-3a4cfff7e5a9?utm_source=GHList) | 1mo |
 | ↳ | Software Engineer 1 – New Grad | NYC | [Simplify](https://simplify.jobs/p/3c313d46-8378-46f3-97e9-038607059bd6?utm_source=GHList) | 1mo |
@@ -38,4 +38,4 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 34d |
+| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 35d |

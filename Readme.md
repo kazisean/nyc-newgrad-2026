@@ -10,19 +10,18 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/497ebde0-832e-47ef-be0f-4960afd0a13a?utm_source=GHList) | 3d |
-| [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/af5452e3-4340-4d84-894b-cd012345a560?utm_source=GHList) | 3d |
-| [Rokt](https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/acc77914-fec3-476d-9bcc-0804776e7465?utm_source=GHList) | 14d |
-| Liquid | Member of Technical Staff | New York, NY | [Apply](https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27?utm_source=Simplify&ref=Simplify) | 14d |
-| ↳ | Software Development Engineer 1 | NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/720787d5-8769-47c3-baf2-f101d9bbdec9?utm_source=GHList) | 15d |
-| [Spot & Tango](https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/5663d444-b150-4f5c-95a9-f9b243831409?utm_source=GHList) | 17d |
-| [🔥 Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company) | Graduate Software Engineer 1 | 4 locationsSeattle, WA, SF, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/99719cf7-1026-4771-b52b-e69f114fc2fd?utm_source=GHList) | 27d |
-| [Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/d54312d4-b724-4f31-8edc-89a45c0f4ef5?utm_source=GHList) | 29d |
+| [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/497ebde0-832e-47ef-be0f-4960afd0a13a?utm_source=GHList) | 4d |
+| [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/af5452e3-4340-4d84-894b-cd012345a560?utm_source=GHList) | 4d |
+| [Rokt](https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/acc77914-fec3-476d-9bcc-0804776e7465?utm_source=GHList) | 15d |
+| Liquid | Member of Technical Staff | New York, NY | [Apply](https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27?utm_source=Simplify&ref=Simplify) | 15d |
+| ↳ | Software Development Engineer 1 | NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/720787d5-8769-47c3-baf2-f101d9bbdec9?utm_source=GHList) | 16d |
+| [Spot & Tango](https://simplify.jobs/c/Spot-And-Tango?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/5663d444-b150-4f5c-95a9-f9b243831409?utm_source=GHList) | 18d |
+| [🔥 Uber](https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company) | Graduate Software Engineer 1 | 4 locationsSeattle, WA, SF, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/99719cf7-1026-4771-b52b-e69f114fc2fd?utm_source=GHList) | 28d |
+| [Aquatic Capital Management](https://simplify.jobs/c/Aquatic-Capital-Management?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | Chicago, IL, NYC | [Simplify](https://simplify.jobs/p/d54312d4-b724-4f31-8edc-89a45c0f4ef5?utm_source=GHList) | 1mo |
 | ↳ | Software Engineer 1 - New Grad | NYC | [Simplify](https://simplify.jobs/p/ab7f6567-e7a7-4d94-ac46-6fde441699e3?utm_source=GHList) | 1mo |
 | [Ellipsis Labs](https://simplify.jobs/c/Ellipsis-Labs?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads - Multiple Teams | NYC | [Simplify](https://simplify.jobs/p/9383654e-9231-4cd4-8264-8af3837f9686?utm_source=GHList) | 1mo |
 | [N1](https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company) | New Grad Software Engineer - Backend Rust | 4 locationsSF, Remote in USA, Europe, NYC | [Simplify](https://simplify.jobs/p/566e37cf-7620-4e64-90ea-d25a99bb5f19?utm_source=GHList) | 1mo |
 | [Northslope Technologies](https://simplify.jobs/c/Northslope-Technologies?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer - New Grad | London, UK, NYC | [Simplify](https://simplify.jobs/p/89c2d6f9-9f51-4296-809a-7e8207949cd5?utm_source=GHList) | 1mo |
-| [Angle Health](https://simplify.jobs/c/Angle-Health?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/ed72898d-d127-4603-a86d-3a4cfff7e5a9?utm_source=GHList) | 1mo |
 | ↳ | Software Engineer 1 – New Grad | NYC | [Simplify](https://simplify.jobs/p/3c313d46-8378-46f3-97e9-038607059bd6?utm_source=GHList) | 1mo |
 | [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 2mo |
 | ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 2mo |
@@ -36,5 +35,5 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 55d |
-| Radian | Quantitative Rotation Associate - must sit 2 days in either NYC office or Wayne - PA HQ | Philadelphia, PA | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/Quantitative-Rotation-Associate--must-sit-2-days-in-either-NYC-office-or-Wayne--PA-HQ-_R20260044) | 8d |
+| Angle Health | Software Engineer - New Grad - NYC | New York, NY | [Apply](https://jobs.ashbyhq.com/anglehealth/57a7f685-b5db-46d7-8531-b86a830712af) | 56d |
+| Radian | Quantitative Rotation Associate - must sit 2 days in either NYC office or Wayne - PA HQ | Philadelphia, PA | [Apply](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/Philadelphia-PA/Quantitative-Rotation-Associate--must-sit-2-days-in-either-NYC-office-or-Wayne--PA-HQ-_R20260044) | 9d |

@@ -10,7 +10,7 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 2d |
+| ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 3d |
 | [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/497ebde0-832e-47ef-be0f-4960afd0a13a?utm_source=GHList) | 1mo |
 | [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/af5452e3-4340-4d84-894b-cd012345a560?utm_source=GHList) | 1mo |
 | [Rokt](https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/acc77914-fec3-476d-9bcc-0804776e7465?utm_source=GHList) | 2mo |
@@ -23,7 +23,7 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | [Northslope Technologies](https://simplify.jobs/c/Northslope-Technologies?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer - New Grad | London, UK, NYC | [Simplify](https://simplify.jobs/p/89c2d6f9-9f51-4296-809a-7e8207949cd5?utm_source=GHList) | 3mo |
 | [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer – New Grads | NYC | [Simplify](https://simplify.jobs/p/c6bf92cb-94ab-43a0-9033-c7be58351211?utm_source=GHList) | 3mo |
 | ↳ | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 3mo |
-| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 3mo |
+| Baton Corporation | Junior Full Stack Engineer | New York, NY | [Apply](https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify) | 4mo |
 | [N1](https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company) | New Grad Software Engineer - Full Stack | NYC | [Simplify](https://simplify.jobs/p/ea1a4f5b-a420-4401-a6b8-56eaa292ebc8?utm_source=GHList) | 7mo |
 | [Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company) | Software Engineer – University Graduate - US | Miami, FL, NYC | [Simplify](https://simplify.jobs/p/495929ef-4f6f-4cdb-9c26-6156e4966b6b?utm_source=GHList) | 7mo |
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |

@@ -10,15 +10,16 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Kustomer](https://simplify.jobs/c/Kustomer?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career - Full Stack | NYC | [Simplify](https://simplify.jobs/p/67fa641a-072c-4739-8ce6-46b35fd111a5?utm_source=GHList) | 0d |
-| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 - Core Platform - Streaming & Storage | NYC | [Simplify](https://simplify.jobs/p/58f3d829-4855-4df3-ba8b-7bfc2e226a88?utm_source=GHList) | 3d |
-| ↳ | Software Engineer 1 - Core Compute Platform | NYC | [Simplify](https://simplify.jobs/p/9b139649-2992-4e54-846d-8ad125111969?utm_source=GHList) | 3d |
-| [Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company) | Software Engineer – University Graduate | 4 locationsGreenwich, CT, Houston, TX, Miami, FL, NYC | [Simplify](https://simplify.jobs/p/410b28b6-b357-4b72-9480-bad83701b4cb?utm_source=GHList) | 5d |
-| [Confido](https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/00142abd-9aec-4fca-9c8d-b46f6fb762d2?utm_source=GHList) | 9d |
-| [PointOne](https://simplify.jobs/c/PointOne?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/80ed1f87-b2ee-49df-bc46-c9a78897a5ad?utm_source=GHList) | 11d |
-| ↳ | Software Engineer New Grad - Defense | NYC | [Simplify](https://simplify.jobs/p/645100d8-0e6e-414b-aa7c-96ecb3ea36e4?utm_source=GHList) | 11d |
-| ↳ | Forward Deployed Software Engineer New Grad - Commercial | NYC | [Simplify](https://simplify.jobs/p/fef271f0-0395-41e1-bc64-b0f2f454e58f?utm_source=GHList) | 11d |
-| ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 24d |
+| [Kustomer](https://simplify.jobs/c/Kustomer?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career - Full Stack | NYC | [Simplify](https://simplify.jobs/p/67fa641a-072c-4739-8ce6-46b35fd111a5?utm_source=GHList) | 1d |
+| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer 1 - Core Platform - Streaming & Storage | NYC | [Simplify](https://simplify.jobs/p/58f3d829-4855-4df3-ba8b-7bfc2e226a88?utm_source=GHList) | 4d |
+| ↳ | Software Engineer 1 - Core Compute Platform | NYC | [Simplify](https://simplify.jobs/p/9b139649-2992-4e54-846d-8ad125111969?utm_source=GHList) | 4d |
+| [Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company) | Software Engineer – University Graduate | 4 locationsGreenwich, CT, Houston, TX, Miami, FL, NYC | [Simplify](https://simplify.jobs/p/410b28b6-b357-4b72-9480-bad83701b4cb?utm_source=GHList) | 6d |
+| [Confido](https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/00142abd-9aec-4fca-9c8d-b46f6fb762d2?utm_source=GHList) | 10d |
+| [PointOne](https://simplify.jobs/c/PointOne?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/80ed1f87-b2ee-49df-bc46-c9a78897a5ad?utm_source=GHList) | 12d |
+| ↳ | Software Engineer New Grad - Defense | NYC | [Simplify](https://simplify.jobs/p/645100d8-0e6e-414b-aa7c-96ecb3ea36e4?utm_source=GHList) | 12d |
+| ↳ | Forward Deployed Software Engineer New Grad - Commercial | NYC | [Simplify](https://simplify.jobs/p/fef271f0-0395-41e1-bc64-b0f2f454e58f?utm_source=GHList) | 12d |
+| ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 25d |
+| [The Federal Reserve System](https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396?utm_source=GHList&utm_medium=company) | Federal Reserve Financial Services Software Engineer 1 | NYC, Minneapolis, MN, Atlanta, GA | [Simplify](https://simplify.jobs/p/d156d721-a042-48fe-9807-31e82eaebe66?utm_source=GHList) | 2mo |
 | [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer – New Grad | NYC | [Simplify](https://simplify.jobs/p/497ebde0-832e-47ef-be0f-4960afd0a13a?utm_source=GHList) | 2mo |
 | [Mirage](https://simplify.jobs/c/Mirage?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career | NYC | [Simplify](https://simplify.jobs/p/af5452e3-4340-4d84-894b-cd012345a560?utm_source=GHList) | 2mo |
 | [Rokt](https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/acc77914-fec3-476d-9bcc-0804776e7465?utm_source=GHList) | 2mo |
@@ -30,9 +31,9 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | [N1](https://simplify.jobs/c/N1?utm_source=GHList&utm_medium=company) | New Grad Software Engineer - Backend Rust | 4 locationsSF, Remote in USA, Europe, NYC | [Simplify](https://simplify.jobs/p/566e37cf-7620-4e64-90ea-d25a99bb5f19?utm_source=GHList) | 3mo |
 | [Northslope Technologies](https://simplify.jobs/c/Northslope-Technologies?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer - New Grad | London, UK, NYC | [Simplify](https://simplify.jobs/p/89c2d6f9-9f51-4296-809a-7e8207949cd5?utm_source=GHList) | 4mo |
 | [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer 1 / 2 - New York | NYC | [Simplify](https://simplify.jobs/p/23e33f26-3a42-4fb5-9910-93c79b50e859?utm_source=GHList) | 4mo |
-| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer 1/2 | NYC, SF | [Simplify](https://simplify.jobs/p/38218558-17c2-4539-98bd-c9a69e00303e?utm_source=GHList) | 4mo |
+| [Giga AI](https://simplify.jobs/c/Giga-AI?utm_source=GHList&utm_medium=company) | Software Engineer 1/2 | NYC, SF | [Simplify](https://simplify.jobs/p/38218558-17c2-4539-98bd-c9a69e00303e?utm_source=GHList) | 5mo |
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Raytheon | Dyrektor/ka ds. Rozwoju i Wdrożeń Danych i AI - Zdalnie | Remote | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771) | 8d |
-| MATTE PROJECTS | Post Production Fellowship - Edit and AI - Fall 2026 - On-Site - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6100102004) | 16d |
+| Raytheon | Dyrektor/ka ds. Rozwoju i Wdrożeń Danych i AI - Zdalnie | Remote | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771) | 9d |
+| MATTE PROJECTS | Post Production Fellowship - Edit and AI - Fall 2026 - On-Site - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6100102004) | 17d |

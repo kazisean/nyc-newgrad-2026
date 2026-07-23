@@ -10,17 +10,17 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [STV](https://simplify.jobs/c/STV?utm_source=GHList&utm_medium=company) | Junior Software Engineer | Boston, MA, NYC | [Simplify](https://simplify.jobs/p/d86d5a45-c146-4585-8c27-938e7a70cf81?utm_source=GHList) | 2d |
-| [Acrisure](https://simplify.jobs/c/Acrisure?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 4 locationsUniondale, NY, Austin, TX, Grand Rapids, MI, Atlanta, GA | [Simplify](https://simplify.jobs/p/5922f002-13a5-421a-835f-d69782f4f801?utm_source=GHList) | 6d |
-| [InstaLILY](https://simplify.jobs/c/InstaLILY?utm_source=GHList&utm_medium=company) | Software Engineer 1 - General | SF, NYC | [Simplify](https://simplify.jobs/p/67937ffc-14b5-4231-9e62-9a4f13dd11c2?utm_source=GHList) | 7d |
-| [🔥 DoorDash](https://simplify.jobs/c/DoorDash?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 5 locationsSeattle, WA, SF, LA, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/cb54a03c-1819-40d6-85dd-7c94b79b337e?utm_source=GHList) | 8d |
-| [WhatNot](https://simplify.jobs/c/WhatNot?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/38cca989-4499-494a-9df9-4b012d5d184a?utm_source=GHList) | 8d |
-| [Northslope Technologies](https://simplify.jobs/c/Northslope-Technologies?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/c368c0a9-db8e-455c-b06c-c18575c7b04d?utm_source=GHList) | 8d |
-| [Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company) | Software Engineer – University Graduate | 4 locationsGreenwich, CT, Houston, TX, Miami, FL, NYC | [Simplify](https://simplify.jobs/p/410b28b6-b357-4b72-9480-bad83701b4cb?utm_source=GHList) | 16d |
-| [Confido](https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/00142abd-9aec-4fca-9c8d-b46f6fb762d2?utm_source=GHList) | 20d |
-| [PointOne](https://simplify.jobs/c/PointOne?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/80ed1f87-b2ee-49df-bc46-c9a78897a5ad?utm_source=GHList) | 22d |
-| ↳ | Software Engineer New Grad - Defense | NYC | [Simplify](https://simplify.jobs/p/645100d8-0e6e-414b-aa7c-96ecb3ea36e4?utm_source=GHList) | 22d |
-| ↳ | Forward Deployed Software Engineer New Grad - Commercial | NYC | [Simplify](https://simplify.jobs/p/fef271f0-0395-41e1-bc64-b0f2f454e58f?utm_source=GHList) | 22d |
+| [Traba](https://simplify.jobs/c/Traba?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/9904ce81-b80f-448d-a958-9b719a4676e9?utm_source=GHList) | 0d |
+| [STV](https://simplify.jobs/c/STV?utm_source=GHList&utm_medium=company) | Junior Software Engineer | Boston, MA, NYC | [Simplify](https://simplify.jobs/p/d86d5a45-c146-4585-8c27-938e7a70cf81?utm_source=GHList) | 3d |
+| [Acrisure](https://simplify.jobs/c/Acrisure?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 4 locationsUniondale, NY, Austin, TX, Grand Rapids, MI, Atlanta, GA | [Simplify](https://simplify.jobs/p/5922f002-13a5-421a-835f-d69782f4f801?utm_source=GHList) | 7d |
+| [InstaLILY](https://simplify.jobs/c/InstaLILY?utm_source=GHList&utm_medium=company) | Software Engineer 1 - General | SF, NYC | [Simplify](https://simplify.jobs/p/67937ffc-14b5-4231-9e62-9a4f13dd11c2?utm_source=GHList) | 8d |
+| [🔥 DoorDash](https://simplify.jobs/c/DoorDash?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 5 locationsSeattle, WA, SF, LA, NYC, Sunnyvale, CA | [Simplify](https://simplify.jobs/p/cb54a03c-1819-40d6-85dd-7c94b79b337e?utm_source=GHList) | 9d |
+| [WhatNot](https://simplify.jobs/c/WhatNot?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/38cca989-4499-494a-9df9-4b012d5d184a?utm_source=GHList) | 9d |
+| [Citadel](https://simplify.jobs/c/Citadel?utm_source=GHList&utm_medium=company) | Software Engineer – University Graduate | 4 locationsGreenwich, CT, Houston, TX, Miami, FL, NYC | [Simplify](https://simplify.jobs/p/410b28b6-b357-4b72-9480-bad83701b4cb?utm_source=GHList) | 17d |
+| [Confido](https://simplify.jobs/c/Confido?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/00142abd-9aec-4fca-9c8d-b46f6fb762d2?utm_source=GHList) | 21d |
+| [PointOne](https://simplify.jobs/c/PointOne?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/80ed1f87-b2ee-49df-bc46-c9a78897a5ad?utm_source=GHList) | 23d |
+| ↳ | Software Engineer New Grad - Defense | NYC | [Simplify](https://simplify.jobs/p/645100d8-0e6e-414b-aa7c-96ecb3ea36e4?utm_source=GHList) | 23d |
+| ↳ | Forward Deployed Software Engineer New Grad - Commercial | NYC | [Simplify](https://simplify.jobs/p/fef271f0-0395-41e1-bc64-b0f2f454e58f?utm_source=GHList) | 23d |
 | ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 1mo |
 | [Rokt](https://simplify.jobs/c/f08512e1-117c-4076-b4b9-217616f1a3eb?utm_source=GHList&utm_medium=company) | Junior Software Engineer | NYC | [Simplify](https://simplify.jobs/p/acc77914-fec3-476d-9bcc-0804776e7465?utm_source=GHList) | 3mo |
 | Liquid | Member of Technical Staff | New York, NY | [Apply](https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27?utm_source=Simplify&ref=Simplify) | 3mo |
@@ -34,5 +34,5 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Raytheon | Dyrektor/ka ds. Rozwoju i Wdrożeń Danych i AI - Zdalnie | Remote | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771) | 19d |
-| MATTE PROJECTS | Post Production Fellowship - Edit and AI - Fall 2026 - On-Site - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6100102004) | 27d |
+| Raytheon | Dyrektor/ka ds. Rozwoju i Wdrożeń Danych i AI - Zdalnie | Remote | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/PL-POLAND-REMOTE/Dyrektor-ds-Rozwoju-i-Wdroe-Danych-i-AI--Zdalnie-_01855771) | 20d |
+| MATTE PROJECTS | Post Production Fellowship - Edit and AI - Fall 2026 - On-Site - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/matteprojects/jobs/6100102004) | 28d |

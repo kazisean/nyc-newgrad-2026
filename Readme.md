@@ -10,15 +10,18 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 5 locationsCharlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA | [Simplify](https://simplify.jobs/p/d1f50127-9dc7-4b88-a4ae-bffdc7c84812?utm_source=GHList) | 3d |
-| [Chalk](https://simplify.jobs/c/Chalk?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/30d31584-e527-4263-b462-ed87f955068d?utm_source=GHList) | 11d |
-| [D'Addario](https://simplify.jobs/c/DAddario?utm_source=GHList&utm_medium=company) | Junior Full Stack Engineer | Farmingdale, NY | [Simplify](https://simplify.jobs/p/3a93ce9b-b375-4f91-a7b3-4841cd8b84da?utm_source=GHList) | 12d |
-| [Affirm](https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company) | Software Engineer 1 New Grad | NYC | [Simplify](https://simplify.jobs/p/5c6be41f-80e3-44af-86bc-77aa2568dd4d?utm_source=GHList) | 12d |
-| ↳ | Software Engineer 1 New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/0ca44806-3f27-4cf1-b462-145f7d506a3d?utm_source=GHList) | 12d |
-| ↳ | Software Engineer New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/5993eb6e-3414-429f-86b9-dd467b9ddd1d?utm_source=GHList) | 16d |
-| [🔥 Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | 6 locationsSeattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT | [Simplify](https://simplify.jobs/p/9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9?utm_source=GHList) | 25d |
-| [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/88301f7d-d1b8-4321-96b8-6f10953efa8a?utm_source=GHList) | 25d |
-| [Authentic](https://simplify.jobs/c/Authentic-Insurance?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/697d4f47-13f9-46f4-85e4-18851d90babb?utm_source=GHList) | 26d |
+| ↳ | Software Engineer New Grad - Query Engines | NYC | [Simplify](https://simplify.jobs/p/814742fa-a084-4b5c-8a86-88b5c02f9b2f?utm_source=GHList) | 0d |
+| [KLA Corporation](https://simplify.jobs/c/KLA-Corporation?utm_source=GHList&utm_medium=company) | Software Engineer 1 | NYC | [Simplify](https://simplify.jobs/p/47e8f9c4-77b2-4538-8f65-ffcd067d9d37?utm_source=GHList) | 1d |
+| [KLA](https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company) | Software Engineer 1 | NYC | [Simplify](https://simplify.jobs/p/0aa1aad3-c8e3-4cd8-975d-9e1028f0fed2?utm_source=GHList) | 1d |
+| [Intuit](https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company) | Software Engineer 1 | 5 locationsCharlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA | [Simplify](https://simplify.jobs/p/d1f50127-9dc7-4b88-a4ae-bffdc7c84812?utm_source=GHList) | 4d |
+| [Chalk](https://simplify.jobs/c/Chalk?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/30d31584-e527-4263-b462-ed87f955068d?utm_source=GHList) | 12d |
+| [D'Addario](https://simplify.jobs/c/DAddario?utm_source=GHList&utm_medium=company) | Junior Full Stack Engineer | Farmingdale, NY | [Simplify](https://simplify.jobs/p/3a93ce9b-b375-4f91-a7b3-4841cd8b84da?utm_source=GHList) | 13d |
+| [Affirm](https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company) | Software Engineer 1 New Grad | NYC | [Simplify](https://simplify.jobs/p/5c6be41f-80e3-44af-86bc-77aa2568dd4d?utm_source=GHList) | 13d |
+| ↳ | Software Engineer 1 New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/0ca44806-3f27-4cf1-b462-145f7d506a3d?utm_source=GHList) | 13d |
+| ↳ | Software Engineer New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/5993eb6e-3414-429f-86b9-dd467b9ddd1d?utm_source=GHList) | 17d |
+| [🔥 Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | 6 locationsSeattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT | [Simplify](https://simplify.jobs/p/9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9?utm_source=GHList) | 26d |
+| [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/88301f7d-d1b8-4321-96b8-6f10953efa8a?utm_source=GHList) | 26d |
+| [Authentic](https://simplify.jobs/c/Authentic-Insurance?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/697d4f47-13f9-46f4-85e4-18851d90babb?utm_source=GHList) | 27d |
 | [🔥 Stripe](https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company) | Software Engineer - Early Career - Immediate Start | Seattle, WA, SF, NYC | [Simplify](https://simplify.jobs/p/5f473e5a-c08d-4e76-ae09-29c68b392aea?utm_source=GHList) | 1mo |
 | [Meow](https://simplify.jobs/c/Meow?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/7c4e05df-01fe-4e75-a327-5d36ebba397e?utm_source=GHList) | 1mo |
 | [Anysphere](https://simplify.jobs/c/Anysphere?utm_source=GHList&utm_medium=company) | Software Engineer New Grad - 2027 | SF, NYC | [Simplify](https://simplify.jobs/p/8f1666d8-5267-460a-9e6f-0b622ef9f60d?utm_source=GHList) | 1mo |
@@ -47,5 +50,5 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ellipsis Labs** | Software Engineer | NYC | [Apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh) | Sep 05 |
 | **N1** | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | [Apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh) | Sep 03 |
 | **Gecko Robotics** | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | [Apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh) | Sep 03 |
-| Affirm | Software Engineer - Early Career - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | 11d |
-| Apex Fintech Solutions | Data Analyst - Tax & Cost Basis | Austin, TX | [Apply](https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/NYC-441/Data-Analyst--Tax---Cost-Basis-_JR105122) | 47d |
+| Affirm | Software Engineer - Early Career - NYC | New York City, NY | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | 12d |
+| Apex Fintech Solutions | Data Analyst - Tax & Cost Basis | Austin, TX | [Apply](https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/NYC-441/Data-Analyst--Tax---Cost-Basis-_JR105122) | 48d |

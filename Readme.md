@@ -10,13 +10,13 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| [Secureframe](https://simplify.jobs/c/Secureframe?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/99cd5349-8e9e-40e3-966e-f41ccfd17d61?utm_source=GHList) | 3d |
-| [Kira Learning](https://simplify.jobs/c/Kira-Learning?utm_source=GHList&utm_medium=company) | Software Engineer Entry Level | SF, NYC | [Simplify](https://simplify.jobs/p/00d1d6f1-5e80-44eb-8ad7-81cda1883638?utm_source=GHList) | 6d |
-| [🔥 Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | 7 locationsPalo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/5d1a3f0e-ab9b-430a-affb-25361ff9d644?utm_source=GHList) | 13d |
-| ↳ | Software Engineering AMTS New Grad | 7 locationsPalo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/c274d687-71f7-4484-8ae0-52884c72e8f8?utm_source=GHList) | 13d |
-| [Ande](https://simplify.jobs/c/Ande?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career - AI | NYC | [Simplify](https://simplify.jobs/p/1b06d46c-1d95-462b-a362-76624d029916?utm_source=GHList) | 17d |
-| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer New Grad - Consumer Experience | NYC | [Simplify](https://simplify.jobs/p/b6f8c62c-4d2c-44f5-8147-cca845fe05d3?utm_source=GHList) | 18d |
-| ↳ | Software Engineer 2 – Early Career | 12 locationsPalo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA | [Simplify](https://simplify.jobs/p/da1ac264-d20e-4ad8-b630-709c0ae8cd5e?utm_source=GHList) | 22d |
+| [Secureframe](https://simplify.jobs/c/Secureframe?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/99cd5349-8e9e-40e3-966e-f41ccfd17d61?utm_source=GHList) | 4d |
+| [Kira Learning](https://simplify.jobs/c/Kira-Learning?utm_source=GHList&utm_medium=company) | Software Engineer Entry Level | SF, NYC | [Simplify](https://simplify.jobs/p/00d1d6f1-5e80-44eb-8ad7-81cda1883638?utm_source=GHList) | 7d |
+| [🔥 Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | 7 locationsPalo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/5d1a3f0e-ab9b-430a-affb-25361ff9d644?utm_source=GHList) | 14d |
+| ↳ | Software Engineering AMTS New Grad | 7 locationsPalo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, NYC, Bellevue, WA | [Simplify](https://simplify.jobs/p/c274d687-71f7-4484-8ae0-52884c72e8f8?utm_source=GHList) | 14d |
+| [Ande](https://simplify.jobs/c/Ande?utm_source=GHList&utm_medium=company) | Software Engineer – Early Career - AI | NYC | [Simplify](https://simplify.jobs/p/1b06d46c-1d95-462b-a362-76624d029916?utm_source=GHList) | 18d |
+| [StubHub](https://simplify.jobs/c/StubHub?utm_source=GHList&utm_medium=company) | Software Engineer New Grad - Consumer Experience | NYC | [Simplify](https://simplify.jobs/p/b6f8c62c-4d2c-44f5-8147-cca845fe05d3?utm_source=GHList) | 19d |
+| ↳ | Software Engineer 2 – Early Career | 12 locationsPalo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA | [Simplify](https://simplify.jobs/p/da1ac264-d20e-4ad8-b630-709c0ae8cd5e?utm_source=GHList) | 23d |
 | [🔥 Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company) | Software Development Engineer 1 Early Career - Annapurna Labs | 4 locationsSeattle, WA, Austin, TX, NYC, Cupertino, CA | [Simplify](https://simplify.jobs/p/2b5665cf-ffeb-4c91-adce-7d9357641676?utm_source=GHList) | 1mo |
 | [Citi](https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company) | Application Development Analyst New Grad | Jersey City, NJ, NYC | [Simplify](https://simplify.jobs/p/43b8e015-cd30-4fd8-888c-7a2f618cb919?utm_source=GHList) | 1mo |
 | [🔥 Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company) | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/b160c2da-eab8-4a59-9b66-181feed9fbdb?utm_source=GHList) | 1mo |
@@ -26,7 +26,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | [🔥 Adobe](https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | 6 locationsSeattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT | [Simplify](https://simplify.jobs/p/9ac8fdf1-ae90-4f20-8e32-7a3f2c0d52e9?utm_source=GHList) | 2mo |
 | [SeatGeek](https://simplify.jobs/c/SeatGeek?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/88301f7d-d1b8-4321-96b8-6f10953efa8a?utm_source=GHList) | 2mo |
 | [Authentic](https://simplify.jobs/c/Authentic-Insurance?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/697d4f47-13f9-46f4-85e4-18851d90babb?utm_source=GHList) | 2mo |
-| [🔥 Stripe](https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company) | Software Engineer - Early Career - Immediate Start | Seattle, WA, SF, NYC | [Simplify](https://simplify.jobs/p/5f473e5a-c08d-4e76-ae09-29c68b392aea?utm_source=GHList) | 2mo |
 | [Meow](https://simplify.jobs/c/Meow?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/7c4e05df-01fe-4e75-a327-5d36ebba397e?utm_source=GHList) | 2mo |
 | [Jampack AI](https://simplify.jobs/c/Jampack-AI?utm_source=GHList&utm_medium=company) | Founding Product Engineer | NYC | [Simplify](https://simplify.jobs/p/431420ae-6573-4299-8147-1fd42ede8b56?utm_source=GHList) | 2mo |
 | [🔥 Stripe](https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company) | Product Manager New Grad | Seattle, WA, SF, NYC | [Simplify](https://simplify.jobs/p/3f12b8ac-a406-4397-9458-ea07e6d144b3?utm_source=GHList) | 2mo |
@@ -47,16 +46,28 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | ↳ | Forward Deployed Software Engineer New Grad - Commercial | NYC | [Simplify](https://simplify.jobs/p/fef271f0-0395-41e1-bc64-b0f2f454e58f?utm_source=GHList) | 4mo |
 | ↳ | Forward Deployed Software Engineer New Grad | NYC | [Simplify](https://simplify.jobs/p/1f6bee99-9cca-467c-a0b3-899d61139a03?utm_source=GHList) | 5mo |
 | [Sigma Computing](https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company) | Software Engineer New Grad | SF, NYC | [Simplify](https://simplify.jobs/p/f0c09f25-6461-4b5e-8bce-950aa917c086?utm_source=GHList) | 7mo |
+| **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Raleigh, NC | [Apply](https://go.vansh.nyc/1IJ?s=A) | Nov 25 |
+| **Nimble Storage** | Embedded Software Developer | Spring, TX | [Apply](https://go.vansh.nyc/1J7?s=A) | Nov 25 |
+| **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | [Apply](https://go.vansh.nyc/1IZ?s=A) | Nov 25 |
+| **Deloitte** | Software Engineer | Nashville, TN | [Apply](https://go.vansh.nyc/1IT?s=A) | Nov 25 |
+| **Applied Materials** | Software Engineer II (Master's) | Chandler, AZ | [Apply](https://go.vansh.nyc/1J6?s=A) | Nov 25 |
 | **Shield AI** | New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack 🇺🇸 | Arlington, VA | [Apply](https://go.vansh.nyc/1HX?s=A) | Nov 24 |
 | **SambaNova Systems** | New Grad: AI Performance Engineer | Austin, TX, San Jose, CA | [Apply](https://go.vansh.nyc/1HY?s=A) | Nov 24 |
+| **SAIC** | Computer Programmer Level 1 | Oklahoma City, OK | [Apply](https://go.vansh.nyc/1IG?s=A) | Nov 24 |
+| **RTX** | Software Engineer I 🇺🇸 | Binghamton, NY | [Apply](https://go.vansh.nyc/1Iq?s=A) | Nov 24 |
 | **Pismo** | Software Engineer, Agentic Developer | Denver, CO | [Apply](https://go.vansh.nyc/1I7?s=A) | Nov 24 |
 | **Philips** | New Grad 2027: AI & Analytics Associate | Nashville, TN | [Apply](https://go.vansh.nyc/1HL?s=A) | Nov 24 |
+| **Peraton** | New Grad 2027: Software Engineering, Ignite Innovator Pgm | Blacksburg, VA | [Apply](https://go.vansh.nyc/1I8?s=A) | Nov 24 |
+| **PayPal** | New Grad 2027: Software Engineer | San Jose, CA, Chicago, IL, Austin, TX | [Apply](https://go.vansh.nyc/1Io?s=A) | Nov 24 |
 | **Iridium Communications** | Software Test Engineer I | Chandler, AZ | [Apply](https://go.vansh.nyc/1HZ?s=A) | Nov 24 |
+| **Consolidated Edison** | Associate, Research & Development | New York, NY | [Apply](https://go.vansh.nyc/1IB?s=A) | Nov 24 |
+| **Boeing** | ASIC/FPGA Design Verification Engineer 🇺🇸 | El Segundo, CA | [Apply](https://go.vansh.nyc/1Ix?s=A) | Nov 24 |
+| **Analog Devices** | Associate Engineer, Quality Engineering | Wilmington, MA | [Apply](https://go.vansh.nyc/1Iw?s=A) | Nov 24 |
+| **Amazon** | New Grad 2027: Front-End Engineer | Seattle, WA | [Apply](https://go.vansh.nyc/1Iv?s=A) | Nov 24 |
 | **Sorenson** | Software Engineer | Salt Lake City, UT | [Apply](https://go.vansh.nyc/1Hx?s=A) | Nov 23 |
 | **Quantiq** | New Grad: Software Developer | Austin, TX | [Apply](https://go.vansh.nyc/1GR?s=A) | Nov 23 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer / Software Engineer 🇺🇸 | Colorado Springs, CO | [Apply](https://go.vansh.nyc/1GL?s=A) | Nov 23 |
 | **L3Harris Technologies** | Associate, Software Engineering 🇺🇸 | Yorba Linda, CA | [Apply](https://go.vansh.nyc/1GT?s=A) | Nov 23 |
-| **Koddi** | Associate Software Engineer | Fort Worth, TX | [Apply](https://go.vansh.nyc/1Hl?s=A) | Nov 23 |
 | **GHD** | Developer | **8 locations**Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Philadelphia, PA, Rosemont, IL, Chicago, IL, Golden, CO | [Apply](https://go.vansh.nyc/1HF?s=A) | Nov 23 |
 | **Enterprise Holdings** | Data Scientist 1 (Master's) | St. Louis, MO | [Apply](https://go.vansh.nyc/1GS?s=A) | Nov 23 |
 | **Duke University** | Analytics Engineer, Department of Pharmacy | Durham, NC | [Apply](https://go.vansh.nyc/1HG?s=A) | Nov 23 |
@@ -96,10 +107,8 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Apple** | New Grad 2027: Engineer - Evolve - An Apple Services Rotation Program | Seattle, WA, New York, NY, Cupertino, CA | [Apply](https://go.vansh.nyc/1Fm?s=A) | Nov 20 |
 | **Amazon** | New Grad 2027: Security Engineer | Seattle, WA | [Apply](https://go.vansh.nyc/1F6?s=A) | Nov 20 |
 | **Zotec Partners** | Security Platform Engineer I – Splunk, Analytics & Automation | Carmel, IN | [Apply](https://go.vansh.nyc/1G4?s=A) | Nov 19 |
-| **United Launch Alliance** | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO | [Apply](https://go.vansh.nyc/1DB?s=A) | Nov 19 |
 | **SpaceX** | Backend Software Engineer, GNC | Redmond, WA | [Apply](https://go.vansh.nyc/1D4?s=A) | Nov 19 |
 | **SpaceX** | Software Engineer, Alerts | Redmond, WA | [Apply](https://go.vansh.nyc/1D5?s=A) | Nov 19 |
-| **Segment** | Software Engineer, Platform Engineering | Remote | [Apply](https://go.vansh.nyc/1CK?s=A) | Nov 19 |
 | **RTX** | Software Engineer I 🇺🇸 | Cedar Rapids, IA | [Apply](https://go.vansh.nyc/1EN?s=A) | Nov 19 |
 | **Qualcomm** | Noc Interconnect Design Engineer and Architect | San Diego, CA | [Apply](https://go.vansh.nyc/1DH?s=A) | Nov 19 |
 | **neurohire.ai** | Forward Deployed Engineer (Master's) | Remote | [Apply](https://go.vansh.nyc/1DD?s=A) | Nov 19 |
@@ -127,17 +136,13 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Mirantis** | New Grad: Software Engineer - Backend - Go | Raleigh, NC | [Apply](https://go.vansh.nyc/1BV?s=A) | Nov 17 |
 | **Micron Technology** | Software Engineer | Boise, ID | [Apply](https://go.vansh.nyc/1C3?s=A) | Nov 17 |
 | **Microchip Technology** | Engineer 1 - Verification | Chandler, AZ | [Apply](https://go.vansh.nyc/1BS?s=A) | Nov 17 |
-| **Jobgether** | New Grad 2027: Software Engineer, Open Source and Linux | Remote | [Apply](https://go.vansh.nyc/1B9?s=A) | Nov 17 |
 | **Federal Reserve System** | New Grad 2027: Quantitative Fellowship Program (Master's) | Minneapolis, MN | [Apply](https://go.vansh.nyc/1AM?s=A) | Nov 17 |
 | **Atoms** | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | [Apply](https://go.vansh.nyc/1BU?s=A) | Nov 17 |
 | **Atoms** | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | [Apply](https://go.vansh.nyc/1BW?s=A) | Nov 17 |
-| **Argonne National Laboratory** | Software Engineer | Lemont, IL | [Apply](https://go.vansh.nyc/1Cb?s=A) | Nov 17 |
 | **All Options** | New Grad 2027: Quantitative Researcher | Austin, TX | [Apply](https://go.vansh.nyc/1B3?s=A) | Nov 17 |
 | **Silna Health** | AI Deployment Analyst | New York, NY | [Apply](https://go.vansh.nyc/1AG?s=A) | Nov 16 |
 | **Momentum** | New Grad 2027: Associate Cybersecurity Analyst | Dallas, TX | [Apply](https://go.vansh.nyc/1Ak?s=A) | Nov 16 |
 | **Microsoft** | Applied Sciences | Remote | [Apply](https://go.vansh.nyc/1A4?s=A) | Nov 16 |
-| **CrossCountry Consulting** | New Grad 2027: Junior Forward Deployed Software Engineer | Philadelphia, PA | [Apply](https://go.vansh.nyc/1AH?s=A) | Nov 16 |
-| **CrossCountry Consulting** | Junior Forward Deployed Software Engineer | McLean, VA | [Apply](https://go.vansh.nyc/1AI?s=A) | Nov 16 |
 | **Canonical** | New Grad 2027: Graduate Software Engineer - Open Source and Linux | Remote | [Apply](https://go.vansh.nyc/1Bw?s=A) | Nov 16 |
 | **Velocity Explorations** | Software Engineer | Patrick AFB, FL | [Apply](https://go.vansh.nyc/1As?s=A) | Nov 15 |
 | **SpaceX** | Full Stack Software Engineer (Starlink) | Palo Alto, CA | [Apply](https://go.vansh.nyc/1zZ?s=A) | Nov 15 |
@@ -217,7 +222,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Houston, TX | [Apply](https://go.vansh.nyc/1mG?s=A) | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Remote | [Apply](https://go.vansh.nyc/1mH?s=A) | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Holly Springs, NC | [Apply](https://go.vansh.nyc/1mI?s=A) | Nov 07 |
-| **Lawrence Livermore National Laboratory** | Embedded Systems Engineer, Super Intelligence Integration 🇺🇸 | Livermore, CA | [Apply](https://go.vansh.nyc/1n9?s=A) | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer | New York, NY, Boston, MA | [Apply](https://go.vansh.nyc/1ml?s=A) | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning) | New York, NY, Boston, MA | [Apply](https://go.vansh.nyc/1mm?s=A) | Nov 07 |
 | **Secfix** | Backend Engineer, GTM Engineering | Remote | [Apply](https://go.vansh.nyc/1mk?s=A) | Nov 06 |
@@ -226,15 +230,11 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Intel** | New Grad 2027: Software Performance Engineer (Master's) | Hillsboro, OR | [Apply](https://go.vansh.nyc/1lS?s=A) | Nov 06 |
 | **Fortinet** | Software Engineer – Cloud Platform (FortiSIEM) 🛂 | Santa Clara, CA | [Apply](https://go.vansh.nyc/1l1?s=A) | Nov 06 |
 | **Cisco** | ASIC DFT Engineer I | San Jose, CA | [Apply](https://go.vansh.nyc/1lV?s=A) | Nov 06 |
-| **Celonis** | Associate Deployment Engineer | New York, NY | [Apply](https://go.vansh.nyc/1kh?s=A) | Nov 06 |
-| **Celonis** | Associate Deployment Engineer | Raleigh, NC | [Apply](https://go.vansh.nyc/1ki?s=A) | Nov 06 |
-| **BP** | New Grad 2027: Digital – Data & AI and Digital Engineering | Houston, TX | [Apply](https://go.vansh.nyc/1lA?s=A) | Nov 06 |
 | **ASM** | Software Engineer | Phoenix, AZ | [Apply](https://go.vansh.nyc/1na?s=A) | Nov 06 |
 | **Yusen Logistics** | IT Reporting Analyst 1, Reports & Labels | **4 locations**Sumner, WA, Greenfield, IN, Jacksonville, FL, Grapevine, TX | [Apply](https://go.vansh.nyc/1i1?s=A) | Nov 05 |
 | **Susquehanna International Group** | Quantitative Sports Researcher (Master's) | Bala Cynwyd, PA | [Apply](https://go.vansh.nyc/1hG?s=A) | Nov 05 |
 | **StubHub** | New Grad: Software Engineer I, Consumer Experience | New York, NY | [Apply](https://go.vansh.nyc/1iQ?s=A) | Nov 05 |
 | **L3Harris Technologies** | Associate, Software Engineer | Troutman, FL | [Apply](https://go.vansh.nyc/1kJ?s=A) | Nov 05 |
-| **Cardinal Health** | New Grad 2027: Data & Analytics Development Program | Dublin, OH | [Apply](https://go.vansh.nyc/1jL?s=A) | Nov 05 |
 | **Annapurna Labs (U.S.) Inc.** | ASIC Formal Verification Engineer I, Annapurna Labs | Austin, TX | [Apply](https://go.vansh.nyc/1j2?s=A) | Nov 05 |
 | **Amazon** | New Grad 2027: Software Development Engineer, Embedded Systems 🇺🇸 | Redmond, WA, Northridge, LA | [Apply](https://go.vansh.nyc/1jB?s=A) | Nov 05 |
 | **Amazon** | New Grad 2027: Software Development Engineer, Amazon Leo 🇺🇸 | Redmond, WA | [Apply](https://go.vansh.nyc/1iP?s=A) | Nov 05 |
@@ -298,8 +298,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Commerce Ads | San Jose, CA | [Apply](https://go.vansh.nyc/162?s=A) | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall) | San Jose, CA | [Apply](https://go.vansh.nyc/163?s=A) | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance) | San Jose, CA | [Apply](https://go.vansh.nyc/164?s=A) | Nov 01 |
-| **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics | Seattle, WA | [Apply](https://go.vansh.nyc/165?s=A) | Nov 01 |
-| **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics) | San Jose, CA | [Apply](https://go.vansh.nyc/16a?s=A) | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation | San Jose, CA | [Apply](https://go.vansh.nyc/16b?s=A) | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Trust & Safety) | San Jose, CA | [Apply](https://go.vansh.nyc/16d?s=A) | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live | San Jose, CA | [Apply](https://go.vansh.nyc/16e?s=A) | Nov 01 |
@@ -435,7 +433,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Ambral** | New Grad: Member of Technical Staff | New York, NY | [Apply](https://go.vansh.nyc/19f?s=A) | Oct 31 |
 | **Urban Science** | Associate Software Engineer | Detroit, MI | [Apply](https://go.vansh.nyc/12w?s=A) | Oct 30 |
 | **United Methodist Communities** | Applied AI Developer, BEAM | Neptune, NJ | [Apply](https://go.vansh.nyc/12x?s=A) | Oct 30 |
-| **Rockwell Automation** | New Grad 2027: EDGE, Information Technology Rotational Program 🛂 | Milwaukee, WI | [Apply](https://go.vansh.nyc/13X?s=A) | Oct 30 |
 | **Oceaneering** | Robotics Software Engineer | Houston, TX | [Apply](https://go.vansh.nyc/195?s=A) | Oct 30 |
 | **NVIDIA** | ASIC Physical Design and Timing Engineer (Master's) | Santa Clara, CA | [Apply](https://go.vansh.nyc/11A?s=A) | Oct 30 |
 | **NVIDIA** | Cell Modeling and Verification Engineer | Santa Clara, CA | [Apply](https://go.vansh.nyc/11B?s=A) | Oct 30 |
@@ -509,7 +506,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Brain Co.** | New Grad 2027: AI/ML Engineer | San Francisco, CA | [Apply](https://go.vansh.nyc/As?s=A) | Oct 22 |
 | **Brain Co.** | New Grad 2027: AI Security Engineer | San Francisco, CA | [Apply](https://go.vansh.nyc/At?s=A) | Oct 22 |
 | **Brain Co.** | New Grad 2027: AI Product Engineer | San Francisco, CA | [Apply](https://go.vansh.nyc/Au?s=A) | Oct 22 |
-| **Brain Co.** | New Grad 2027: AI Platform Engineer | San Francisco, CA | [Apply](https://go.vansh.nyc/Av?s=A) | Oct 22 |
 | **Amazon** | New Grad 2027: Software Engineer | **9 locations**Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO | [Apply](https://go.vansh.nyc/AD?s=A) | Oct 22 |
 | **Acxiom** | Associate Solution Developer | Conway, AR | [Apply](https://go.vansh.nyc/AG?s=A) | Oct 22 |
 | **Veeva Systems** | New Grad 2027: Data Analyst, Marketing Analytics | New York, NY | [Apply](https://go.vansh.nyc/Ua?s=A) | Oct 19 |
@@ -704,7 +700,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Software Development - AI | Laurel, MD | [Apply](https://go.vansh.nyc/NO?s=A) | Sep 03 |
 | **Vermeer** | New Grad 2027: Engineer I, Embedded Software Engineer | Pella, IA | [Apply](https://go.vansh.nyc/PL?s=A) | Sep 02 |
 | **Trace Labs** | Researcher (Master's) | New York, NY | [Apply](https://go.vansh.nyc/NI?s=A) | Sep 02 |
-| **Stryker** | Design Engineer - Software, RISE | Portage, MI | [Apply](https://go.vansh.nyc/Og?s=A) | Sep 02 |
 | **Newrez** | Data Product Engineering Operations Specialist | Coppell, TX | [Apply](https://go.vansh.nyc/NK?s=A) | Sep 02 |
 | **Zip** | New Grad 2027: Software Engineer | San Francisco, CA | [Apply](https://go.vansh.nyc/Nq?s=A) | Sep 01 |
 | **Stripe** | New Grad 2027: Software Engineer | San Francisco, CA, Seattle, WA, New York, NY | [Apply](https://go.vansh.nyc/No?s=A) | Sep 01 |
@@ -718,7 +713,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Blue Origin** | New Grad 2027: Avionics / Embedded Software Engineer I 🇺🇸 | **4 locations**Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO | [Apply](https://go.vansh.nyc/O9?s=A) | Sep 01 |
 | **Blue Origin** | Software Development Engineer I 🛂 | Kent, WA | [Apply](https://go.vansh.nyc/Nj?s=A) | Sep 01 |
 | **N1** | Software Engineer (Full Stack) | New York, NY | [Apply](https://go.vansh.nyc/OV?s=A) | Aug 30 |
-| **WeRide** | New Grad 2027: Software Engineer | San Jose, CA | [Apply](https://go.vansh.nyc/P2?s=A) | Aug 29 |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Boston, MA | [Apply](https://go.vansh.nyc/OZ?s=A) | Aug 29 |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Pleasanton, CA | [Apply](https://go.vansh.nyc/P0?s=A) | Aug 29 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph | San Jose, CA | [Apply](https://go.vansh.nyc/PG?s=A) | Aug 29 |
@@ -819,7 +813,6 @@ Use this repository to keep track of software, tech, CS, PM, and quant new grad 
 | **Hudson River Trading** | Trade Operations | Austin, TX | [Apply](https://go.vansh.nyc/mU?s=A) | Jul 30 |
 | **Hudson River Trading** | Trade Operations | New York, NY | [Apply](https://go.vansh.nyc/mT?s=A) | Jul 30 |
 | **Perplexity** | Associate Product Manager Program | San Francisco, CA | [Apply](https://go.vansh.nyc/mN?s=A) | Jul 25 |
-| **Invisible Tech** | Data Scientist | New York, NY, San Francisco, CA | [Apply](https://go.vansh.nyc/DL?s=A) | Jul 24 |
 | **Qualcomm Technologies, Inc.** | GPU Software Engineer | San Diego, CA | [Apply](https://go.vansh.nyc/mr?s=A) | Jul 20 |
 | **Porter** | Full Stack Engineer | New York, NY | [Apply](https://go.vansh.nyc/mp?s=A) | Jul 15 |
 | **Qualcomm Technologies, Inc.** | CPU Software Architecture Engineer | San Diego, CA | [Apply](https://go.vansh.nyc/m8?s=A) | Jul 14 |
